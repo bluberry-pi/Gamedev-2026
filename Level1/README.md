@@ -26,4 +26,4 @@ You can use the provided tutorial and assets to complete the task.
 
 ## Submission
 
-- Add your project to your **personal folder** in the repository.
+- Add your Submission to your **personal folder** in the repository.

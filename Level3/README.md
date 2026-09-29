@@ -29,4 +29,4 @@ You can take inspiration from existing games and create your own versions of lev
 
 ## Submission
 
-- Add your level inside your **personal folder** in the repository.
+- Add your Submission to your **personal folder** in the repository.

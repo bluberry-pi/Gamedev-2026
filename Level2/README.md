@@ -36,4 +36,4 @@ There are no limits to what your character can do. Experiment howevery you want.
 
 ## Submission
 
-- Add your project to your **personal folder** in the repository.
+- Add your Submission to your **personal folder** in the repository.
