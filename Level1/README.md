@@ -1,4 +1,3 @@
-
 # 🎮 Level 1 — Movement Basics
 
 ## Objective

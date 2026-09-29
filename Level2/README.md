@@ -1,5 +1,3 @@
-exx
-
 # 🎮 Level 2 — Character Mechanics
 
 ## Objective

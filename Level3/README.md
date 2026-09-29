@@ -1,4 +1,3 @@
-
 # 🎮 Level 3 — Level Design
 
 ## Objective
@@ -29,4 +28,4 @@ You can take inspiration from existing games and create your own versions of lev
 
 ## Submission
 
-- Add your Submission to your **personal folder** in the repository.
+- Add your Submission to your **personal folder** in the repository
