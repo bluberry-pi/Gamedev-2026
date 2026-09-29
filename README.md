@@ -7,8 +7,6 @@ This repository is created for Hacktoberfest contributions and is focused on beg
 
 Most of the projects and tasks in this repository are created using **Unity**, so having Unity installed is recommended. however you are free to use any game engine of your choice!
 
----
-
 # 🛠️ Installing Unity
 
 ## Step 1: Download Unity Hub
@@ -34,8 +32,6 @@ After installing Unity Hub:
 For a step-by-step guide on downloading and installing Unity, follow this tutorial:
 
 https://youtu.be/X-NSBNbaQhs?si=2NMa4O4iaC7WFLMi
-
----
 
 # 🎮 Using Other Game Engines
 
