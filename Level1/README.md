@@ -24,7 +24,6 @@ A basic player movement tutorial is available in the **Resources** folder.
 
 You can use the provided tutorial and assets to complete the task.
 
-## Notes
+## Submission
 
-- Keep your code clean and readable.
-- Make sure your project can be opened and played.
+- Add your project to your **personal folder** in the repository.

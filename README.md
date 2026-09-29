@@ -42,7 +42,7 @@ If you choose to use another engine, make sure to:
 - Avoid committing unnecessary generated files.
 - Keep your project structure clean and organized.
 
-Level 1: Basic Character Movement
+# Level 1: Basic Character Movement
 
 Implement basic character movement.
 
@@ -103,4 +103,4 @@ Some games you can take inspiration from:
 
 - **Die Again** 
 
-Have fun experimenting and creating!
+Have fun experimenting and creating, make as many levels as you can!
