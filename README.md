@@ -42,6 +42,20 @@ If you choose to use another engine, make sure to:
 - Avoid committing unnecessary generated files.
 - Keep your project structure clean and organized.
 
+# ⚠️ IMPORTANT: GitIgnore is Mandatory
+
+Before pushing your project to this repository, adding a proper **.gitignore file is a MUST**.
+
+Game engines generate many unnecessary files (cache files, build files, temporary files, etc.) which should not be uploaded to GitHub.
+
+GitHub provides ready-made `.gitignore` templates, for popular game engines such as:
+
+- Unity
+- Unreal Engine
+- Godot
+
+Make sure to use the correct `.gitignore` file for your engine before creating a Pull Request
+
 # Level 1: Basic Character Movement
 
 Implement basic character movement.
@@ -101,7 +115,7 @@ You can also take inspiration from existing games and design your own versions o
 
 Some games you can take inspiration from:
 
-- **Die Again** 
+- **Die Again**
 
 Have fun experimenting and creating, make as many levels as you can!
 
