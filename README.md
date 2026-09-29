@@ -92,11 +92,8 @@ Your level can include:
 - Platforms
 - Obstacles
 - Challenges
-- Collectibles
-- Goals
-- Multiple stages/levels
 
-A simple level can be created quickly. This 5 mins tutorial explains the basics of making a level in Unity very quickly.
+This 5 mins tutorial explains the basics of making a level in Unity very quickly.
 
 https://www.youtube.com/watch?v=E25JWfeCFPA&t=77s
 
