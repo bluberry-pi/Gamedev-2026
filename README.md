@@ -1,4 +1,3 @@
-
 # 🎮 Game Development
 
 Welcome to the Game Development repository!
@@ -44,3 +43,69 @@ If you choose to use another engine, make sure to:
 - Keep your project structure clean and organized.
 
 More contribution guidelines and task details will be added soon.
+
+# Level 1: Basic Character Movement
+
+Implement basic character movement.
+
+You can use the blue_chicken.png from the **Resources** folder provided in this repository for the charatcer sprite
+
+A movement tutorial is also available inside the **Resources** folder to help you get started.
+
+# Level 2: Character Mechanics
+
+Now that your character can move, it's time to make it more interesting!
+
+Create a **new project** and add unique mechanics and interactions to your character.
+
+Some examples:
+
+- Dash ability
+- Sprinting
+- Teleportation
+- Double jump
+- Special abilities
+- Random interactions
+
+You can also add keyboard interactions.
+
+Example:
+
+Pressing **"E"** could make your character:
+
+- Spawn a burger 🍔
+- Summon a random object
+- Change size
+- Activate a funny ability
+- Interact with the environment
+
+The possibilities are endless.
+
+Try to be as creative and absurd as possible. The more unique your mechanic is, the better!
+
+# Level 3: Level Design
+
+Now take your character and mechanics and create a proper playable level.
+
+Create basic platformer levels where your character can use the abilities you created.
+
+Your level can include:
+
+- Platforms
+- Obstacles
+- Challenges
+- Collectibles
+- Goals
+- Multiple stages/levels
+
+A simple level can be created quickly. This 5 mins tutorial explains the basics of making a level in Unity very quickly.
+
+https://www.youtube.com/watch?v=E25JWfeCFPA&t=77s
+
+You can also take inspiration from existing games and design your own versions of levels.
+
+Some games you can take inspiration from:
+
+- **Die Again** 
+
+Have fun experimenting and creating!
