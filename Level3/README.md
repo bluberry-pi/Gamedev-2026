@@ -5,7 +5,7 @@
 
 Create playable levels for your character by designing a platformer environment.
 
-Use the character and mechanics you created in the previous levels, or you can use new ones too, and build a simple game level around them.
+Use the character and mechanics you created in the previous levels, or you can use new ones too, and build a simple game level around them. Make the player transition through them if you have multiple levels.
 
 ## Tasks
 
