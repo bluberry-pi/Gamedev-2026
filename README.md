@@ -1,6 +1,6 @@
 # 🎮 Game Development
 
-Welcome to the Game Development repository!
+Welcome to the Game Development repository by Sandbox!
 
 This repository is created for Hacktoberfest contributions and is focused on beginner-friendly game development projects.
 
@@ -104,3 +104,9 @@ Some games you can take inspiration from:
 - **Die Again** 
 
 Have fun experimenting and creating, make as many levels as you can!
+
+# Discord Community
+
+If you are stuck at anything and need help, join our Sandbox discord and ask for help there.
+
+[discord.gg/jwRrACrKez](https://discord.gg/jwRrACrKez)

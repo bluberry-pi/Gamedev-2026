@@ -34,10 +34,6 @@ You can create any mechanics you want, don't limit yourself to the examples. Try
 
 There are no limits to what your character can do. Experiment howevery you want.
 
----
-
 ## Submission
 
 - Add your project to your **personal folder** in the repository.
-- Make sure your project contains all required files.
-- Add a short description of the mechanics you created.
