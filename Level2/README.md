@@ -4,7 +4,7 @@
 
 Create a character with abilities and interactions by adding new mechanics to your player.
 
-Create a **new Unity project** and experiment with different character mechanics.
+Create a **new project** and experiment with different character mechanics.
 
 ## Tasks
 

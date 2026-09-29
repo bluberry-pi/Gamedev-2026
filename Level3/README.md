@@ -8,13 +8,13 @@ Use the character and mechanics you created in the previous levels, or you can u
 
 ## Tasks
 
-Create a platformer level that includes:
+Create a new project and add platformer levels for your character. The platformer level can include:
 
 - Platforms
 - Obstacles
 - Challenges
 
-You can design your level in any style you want. Again, you are not limited to whatever is written here.
+You can design your level in any style you want. You are not limited to whatever is written here.
 
 ## Level Design Tutorial
 
