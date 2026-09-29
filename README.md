@@ -42,9 +42,7 @@ If you choose to use another engine, make sure to:
 - Avoid committing unnecessary generated files.
 - Keep your project structure clean and organized.
 
-More contribution guidelines and task details will be added soon.
-
-# Level 1: Basic Character Movement
+Level 1: Basic Character Movement
 
 Implement basic character movement.
 
